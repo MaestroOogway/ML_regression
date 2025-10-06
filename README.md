@@ -1,10 +1,10 @@
 Taller Práctico I: Regresión con Keras
 
-Este proyecto corresponde a un taller práctico de Machine Learning Aplicado donde se implementa un modelo de regresión utilizando el framework Keras. El objetivo principal es predecir el valor de una vivienda en California a partir de variables socioeconómicas, como el ingreso medio del hogar.
+Este proyecto corresponde a un trabajo de Machine Learning Aplicado donde se implementa un modelo de regresión utilizando el framework Keras. El objetivo principal es predecir el valor de una vivienda en California a partir de variables socioeconómicas, como el ingreso medio del hogar.
 
 ---------------------------------Objetivo-------------------------------
 
-Aprender a implementar un perceptrón simple (red neuronal densa) con Keras para resolver un problema de regresión.
+Implementar un perceptrón simple (red neuronal densa) con Keras para resolver un problema de regresión.
 
 ----------------------------------Dataset---------------------------------------
 
@@ -52,10 +52,6 @@ Los gráficos muestran una disminución progresiva de la pérdida y del error du
 
 ----------------------------Autores--------------------------------
 
-Ítalo López Meza
-
-Joaquín Quintanilla Ramírez
 
 Fabián Vidal
 
-Profesor: Aaron Ponce Sandoval
