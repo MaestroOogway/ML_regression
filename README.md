@@ -1,4 +1,4 @@
-Taller Práctico I: Regresión con Keras
+#Regresión con Keras
 
 Este proyecto corresponde a un trabajo de Machine Learning Aplicado donde se implementa un modelo de regresión utilizando el framework Keras. El objetivo principal es predecir el valor de una vivienda en California a partir de variables socioeconómicas, como el ingreso medio del hogar.
 
@@ -50,8 +50,4 @@ El modelo logra un MSE bajo, indicando un buen ajuste en la predicción del valo
 
 Los gráficos muestran una disminución progresiva de la pérdida y del error durante el entrenamiento.
 
-----------------------------Autores--------------------------------
-
-
-Fabián Vidal
 
